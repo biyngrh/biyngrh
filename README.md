@@ -1,14 +1,13 @@
-# Hi Nigga!, i'm Biyan 👋
+# Assalamu'alaikum Warahmatullaahi Wabarakaatuh Akhi!, i'm Biyan 👋
 
-I'm a Software Developer based in [Kota/Negara].
+I'm a junior programmer and still studying at Institut Teknologi Sains Bandung.
 
-- 🔭 I’m currently working on **Awesome Project Name**
-- 🌱 I’m currently learning **React & TypeScript**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 How to reach me: **email@contoh.com**
+- 🌱 I’m currently learning **Kotlin, Flutter and C++**
+- 👯 I’m looking to collaborate on **Android Software Development**
+- 📫 How to reach me: **teguhbiyan1@gmail.com**
 
 ### 🛠️ Languages and Tools
-`Python` `Javascript` `HTML` `CSS` `Git` `VS Code`
+`Python` `Javascript` `HTML` `CSS` `Git` `VS Code` `C++`
 
-### ⚡ Fun fact
-I can center a div without Googling it!
+### ⚡ Motivation
+Stil studying and never surrender
