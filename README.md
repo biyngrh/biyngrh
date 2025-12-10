@@ -1,4 +1,4 @@
-# Assalamu'alaikum Warahmatullahi Wabarakatuh Akhi!, i'm Biyan👋
+# Assalamualaikum Warahmatullahi Wabarakatuh Akhi!, i'm Biyan👋
 
 I'm a junior programmer and still studying at Institut Teknologi Sains Bandung.
 
