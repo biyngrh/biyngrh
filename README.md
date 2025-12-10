@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi Nigga!, i'm Biyan 👋
 
-<!--
-**biyngrh/biyngrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer based in [Kota/Negara].
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Awesome Project Name**
+- 🌱 I’m currently learning **React & TypeScript**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 📫 How to reach me: **email@contoh.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages and Tools
+`Python` `Javascript` `HTML` `CSS` `Git` `VS Code`
+
+### ⚡ Fun fact
+I can center a div without Googling it!
