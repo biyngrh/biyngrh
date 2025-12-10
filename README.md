@@ -9,5 +9,7 @@ I'm a junior programmer and still studying at Institut Teknologi Sains Bandung.
 ### 🛠️ Languages and Tools
 `Python` `Javascript` `HTML` `CSS` `Git` `VS Code` `C++`
 
-### ⚡ Motivation
-Stil studying and never surrender
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=username-github-anda&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username-github-anda&layout=compact&theme=radical" alt="Top Languages" />
+</div>
