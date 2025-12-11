@@ -1,4 +1,4 @@
-# Assalamualaikum Akhi!, i'm Biyan👋
+# Horas Lekku!, i'm Biyan👋
 
 I'm a junior programmer and still studying at Institut Teknologi Sains Bandung.
 
